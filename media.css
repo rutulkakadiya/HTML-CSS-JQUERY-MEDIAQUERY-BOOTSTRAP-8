@@ -1,0 +1,205 @@
+@media (min-width: 993px) and (max-width: 1300px){
+
+    .counter{
+        font-size: 50px;
+    }
+    .span2{
+        font-size: 50px;
+    }
+    .img6{
+        position: relative;
+        top: 8vh;
+    }
+    @keyframes animate3{
+        50%{
+            top: 10vh;
+        }
+    }
+    
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    #icon1{
+        display: block;
+        line-height: 80px;
+    }
+    #col1{
+        display: flex;
+        justify-content: end;
+    }
+    #h1{
+        width: 80%;
+        margin-left: 5%;
+    }
+    .btn2{
+        margin-left: -3%;
+    }
+
+    .counter{
+        font-size: 50px;
+    }
+    .span2{
+        font-size: 50px;
+    }
+    #h6{
+        width: 110%;
+    }
+    .img5{
+        right: 5vw;
+    }
+    #slide17{
+        width: 100%;
+    }
+    .img8{
+        height: 80%;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    #icon1{
+        display: block;
+        line-height: 80px;
+    }
+    #p1{
+        width: 100%;
+        position: relative;
+        bottom: 100px;
+        margin-left: 12%;
+    }
+    #h1{
+        width: 85%;
+        font-size: 50px;
+    }
+    #col2{
+        visibility: hidden;
+    }
+    .slide4{
+        height: 300px;
+    }
+    #h3{
+        font-size: 45px;
+    }
+    #h4{
+        font-size: 45px;
+    }
+    .box5{
+        width: 80%;
+    }
+   
+    .counter{
+        font-size: 50px;
+    }
+    .span2{
+        font-size: 50px;
+    }
+    .img5{
+        display: none;
+    }
+    .img6{
+        display: none;
+    }
+    .img7{
+        display: none;
+    }
+    #slide17{
+        width: 100%;
+    }
+    .main12{
+        margin-top: 50px;
+    }
+    .img8{
+        height: 50%;
+        position: relative;
+        top: 20%;
+        right: 70%;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 576px){
+    #icon1{
+        display: block;
+        line-height: 80px;
+    }
+    #h1{
+        width: 85%;
+        margin-left: -10%;
+        border: 1px solid black;
+        font-size: 35px;
+    }
+    #p1{
+        width: 100%;
+        position: relative;
+        bottom: 100px;
+        margin-left: 2%;
+    }
+    .btn2{
+        width: 150px;
+        position: relative;
+        top: 30px;
+        left: -10%;
+    }
+    #col2{
+        visibility: hidden;
+    }
+    .main7 h1{
+        font-size: 30px;
+    }
+    .main7 #p2{
+        width: 100%;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #span1{
+        font-size: 14px;
+    }
+    .slide4{
+        height: 300px;
+    }
+    #h3{
+        font-size: 30px;
+    }
+    #h4{
+        font-size: 30px;
+    }
+    .box5{
+        width: 80%;
+    }
+   
+    .counter{
+        font-size: 50px;
+    }
+    .span2{
+        font-size: 50px;
+    }
+    .main10 #col3{
+        margin: 0px;
+    }
+    .main10 .row{
+        padding-bottom: 0px;
+    }
+    .img5{
+        display: none;
+    }
+    .img6{
+        display: none;
+    }
+    .img7{
+        display: none;
+    }
+    #slide17{
+        width: 100%;
+    }
+    .main12{
+        margin-top: 50px;
+    }
+    .img8{
+        height: 400px;
+        /* width: 400px; */
+        position: relative;
+        right: 75%;
+    }
+    .box10{
+        position: relative;
+        left: 80%;
+    }
+}
